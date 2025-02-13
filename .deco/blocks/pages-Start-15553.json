@@ -3,6 +3,75 @@
   "path": "/",
   "sections": [
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Theme/Header.tsx",
+        "image": {
+          "url": "https://data.decoassets.com/ciadafolhas/79a90c48-4f6a-417a-ae26-4737c30cab5b/Group-1-(1).png",
+          "alt": "Cia das folhas banner",
+          "width": 263,
+          "height": 233
+        },
+        "items": [
+          {
+            "text": "Plantas",
+            "link": "/",
+            "highlight": true
+          },
+          {
+            "text": "Vasos",
+            "link": "/"
+          },
+          {
+            "text": "Instagram",
+            "link": "/"
+          },
+          {
+            "text": "Sobre",
+            "link": "/"
+          },
+          {
+            "text": "Fale com a gente",
+            "link": "/"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/SliderImages.tsx",
+        "images": [
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "srcMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "href": "/",
+            "desktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "mobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "alt": "Banner Main"
+          },
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "srcMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "desktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "mobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "alt": "Banner Main"
+          }
+        ],
+        "items": [
+          {
+            "type": "image",
+            "video": {},
+            "image": {
+              "imageDesktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+              "imageMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png"
+            }
+          }
+        ],
+        "bannersFullWidth": true
+      }
+    },
+    {
       "__resolveType": "site/sections/ItWorks.tsx",
       "name": "<p>Allfa</p>",
       "count": 1
