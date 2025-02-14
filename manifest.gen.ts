@@ -4,19 +4,29 @@
 
 import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
-import * as $$$$$$0 from "./sections/Footer.tsx";
-import * as $$$$$$1 from "./sections/ItWorks.tsx";
-import * as $$$$$$2 from "./sections/SliderImages.tsx";
-import * as $$$$$$3 from "./sections/Theme/Header.tsx";
-import * as $$$$$$4 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$0 from "./sections/ContactUs.tsx";
+import * as $$$$$$1 from "./sections/Footer.tsx";
+import * as $$$$$$2 from "./sections/HeroImage.tsx";
+import * as $$$$$$3 from "./sections/ItWorks.tsx";
+import * as $$$$$$4 from "./sections/Maps.tsx";
+import * as $$$$$$5 from "./sections/SimpleBannerText.tsx";
+import * as $$$$$$6 from "./sections/SliderImages.tsx";
+import * as $$$$$$7 from "./sections/Theme/Header.tsx";
+import * as $$$$$$8 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$9 from "./sections/WhatsApp.tsx";
 
 const manifest = {
   "sections": {
-    "site/sections/Footer.tsx": $$$$$$0,
-    "site/sections/ItWorks.tsx": $$$$$$1,
-    "site/sections/SliderImages.tsx": $$$$$$2,
-    "site/sections/Theme/Header.tsx": $$$$$$3,
-    "site/sections/Theme/Theme.tsx": $$$$$$4,
+    "site/sections/ContactUs.tsx": $$$$$$0,
+    "site/sections/Footer.tsx": $$$$$$1,
+    "site/sections/HeroImage.tsx": $$$$$$2,
+    "site/sections/ItWorks.tsx": $$$$$$3,
+    "site/sections/Maps.tsx": $$$$$$4,
+    "site/sections/SimpleBannerText.tsx": $$$$$$5,
+    "site/sections/SliderImages.tsx": $$$$$$6,
+    "site/sections/Theme/Header.tsx": $$$$$$7,
+    "site/sections/Theme/Theme.tsx": $$$$$$8,
+    "site/sections/WhatsApp.tsx": $$$$$$9,
   },
   "apps": {
     "site/apps/deco/htmx.ts": $$$$$$$$$$$0,

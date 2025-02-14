@@ -58,7 +58,7 @@ function BannerItem({ image, lcp }: {
                     fetchPriority={lcp ? "high" : "auto"}
                     src={desktop}
                     width={1440}
-                    height={457}
+                    height={659}
                 />
                 <img
                     class="object-cover w-full h-full"

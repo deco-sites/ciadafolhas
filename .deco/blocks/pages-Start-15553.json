@@ -5,34 +5,92 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Theme/Header.tsx",
-        "image": {
-          "url": "https://data.decoassets.com/ciadafolhas/79a90c48-4f6a-417a-ae26-4737c30cab5b/Group-1-(1).png",
-          "alt": "Cia das folhas banner",
-          "width": 263,
-          "height": 233
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "site/sections/WhatsApp.tsx",
+      "phone": 22
+    },
+    {
+      "__resolveType": "site/sections/SliderImages.tsx",
+      "images": [
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "srcMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "href": "/",
+          "desktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "mobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "alt": "Banner Main"
         },
-        "items": [
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "srcMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "desktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "mobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+          "alt": "Banner Main"
+        }
+      ],
+      "items": [
+        {
+          "type": "image",
+          "video": {},
+          "image": {
+            "imageDesktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
+            "imageMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png"
+          }
+        }
+      ],
+      "bannersFullWidth": true
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/SimpleBannerText.tsx",
+        "image": {
+          "href": "/",
+          "image": "https://data.decoassets.com/ciadafolhas/9917e99f-7d23-4f44-8c7f-62bd3d9bab77/image-13.png"
+        },
+        "secondImage": {
+          "image": "https://data.decoassets.com/ciadafolhas/a1d7f8af-b725-48d2-a74a-2e5cafd9a2fd/pngegg-1.png"
+        },
+        "title": "Transforme ambientes com a beleza<br/> das plantas Permanentes",
+        "textContent": "Descubra o segredo para criar ambientes <strong>sofisticados</strong>, <strong>acolhedores</strong> e cheios de vida<br/> sem complicações! Nossas <strong>Plantas Ornamentais Permanentes</strong> são a escolha perfeita<br/> para quem valoriza beleza, praticidade e um toque de modernidade na decoração."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroImage.tsx",
+        "image": {
+          "image": "https://data.decoassets.com/ciadafolhas/8ccf4521-5de4-45bf-a777-113e67e011ae/Group-18.png",
+          "href": "/"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ContactUs.tsx",
+        "image": {
+          "image": "https://data.decoassets.com/ciadafolhas/5b000c96-cccc-4007-94f7-3608a520f475/b56b9925-09e4-4ef8-a042-8994c9e22c77-1.svg"
+        },
+        "contact": [
           {
-            "text": "Plantas",
-            "link": "/",
-            "highlight": true
+            "icon": "https://data.decoassets.com/ciadafolhas/3feb1a5a-d1ae-455f-8884-3ca331471c78/Vector-(6).svg",
+            "text": "<u>(11) 94736-1414</u>"
           },
           {
-            "text": "Vasos",
-            "link": "/"
+            "icon": "https://data.decoassets.com/ciadafolhas/fefe502b-4a09-4a9b-b67e-a1a68a7e4cd4/Vector-(7).svg",
+            "text": "<u>(11) 94736-1414</u>"
           },
           {
-            "text": "Instagram",
-            "link": "/"
+            "text": "Segunda a Sábado<br/> 8:40 às 17h",
+            "icon": "https://data.decoassets.com/ciadafolhas/2babd5fd-6d0c-49f3-8409-269d03332cab/Group.svg"
           },
           {
-            "text": "Sobre",
-            "link": "/"
-          },
-          {
-            "text": "Fale com a gente",
-            "link": "/"
+            "text": "Rua Baumann, 925<br/> Vila Leopoldina, São Paulo",
+            "icon": "https://data.decoassets.com/ciadafolhas/948ba853-fb3e-47ac-8b06-5f2a44d3105c/Group-(1).svg"
           }
         ]
       }
@@ -40,41 +98,9 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/SliderImages.tsx",
-        "images": [
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "srcMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "href": "/",
-            "desktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "mobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "alt": "Banner Main"
-          },
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "srcMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "desktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "mobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-            "alt": "Banner Main"
-          }
-        ],
-        "items": [
-          {
-            "type": "image",
-            "video": {},
-            "image": {
-              "imageDesktop": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png",
-              "imageMobile": "https://data.decoassets.com/ciadafolhas/498286d8-85b7-440a-bc02-ca5e0ec9ee3c/image-8.png"
-            }
-          }
-        ],
-        "bannersFullWidth": true
+        "__resolveType": "site/sections/Maps.tsx",
+        "title": "Estamos no Maps"
       }
-    },
-    {
-      "__resolveType": "site/sections/ItWorks.tsx",
-      "name": "<p>Allfa</p>",
-      "count": 1
     },
     {
       "__resolveType": "Footer"

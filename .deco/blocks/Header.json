@@ -1,0 +1,32 @@
+{
+  "__resolveType": "site/sections/Theme/Header.tsx",
+  "image": {
+    "url": "https://data.decoassets.com/ciadafolhas/79a90c48-4f6a-417a-ae26-4737c30cab5b/Group-1-(1).png",
+    "alt": "Cia das folhas banner",
+    "width": 263,
+    "height": 233
+  },
+  "items": [
+    {
+      "text": "Plantas",
+      "link": "/",
+      "highlight": true
+    },
+    {
+      "text": "Vasos",
+      "link": "/"
+    },
+    {
+      "text": "Instagram",
+      "link": "/"
+    },
+    {
+      "text": "Sobre",
+      "link": "/"
+    },
+    {
+      "text": "Fale com a gente",
+      "link": "/"
+    }
+  ]
+}
