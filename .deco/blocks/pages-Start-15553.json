@@ -164,7 +164,9 @@
           "src": "https://data.decoassets.com/ciadafolhas/da286c51-4b9f-431e-8440-2ccdd6f157a9/image-26.png"
         },
         "imageUnder": {
-          "src": "https://data.decoassets.com/ciadafolhas/4a518b97-b0e7-432e-9668-509041e82ca1/image-39.png"
+          "src": "https://data.decoassets.com/ciadafolhas/03fb38cb-6ef2-4f7a-9fda-668f7dae0c9d/Vector-(3).png",
+          "width": 376,
+          "height": 665
         }
       }
     },
@@ -173,7 +175,9 @@
       "section": {
         "__resolveType": "site/sections/AboutUs.tsx",
         "image": {
-          "image": "https://data.decoassets.com/ciadafolhas/5f8364f8-a6e5-4c66-b9fd-d5b522d7b7f1/Object.png"
+          "image": "https://data.decoassets.com/ciadafolhas/5f8364f8-a6e5-4c66-b9fd-d5b522d7b7f1/Object.png",
+          "width": 405,
+          "height": 703
         },
         "textContent": [
           "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 26pt\">a Companhia</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Somos apaixonados por transformar ambientes através de soluções</span></p><p><span style=\"color: rgb(20, 74, 44)\">decorativas que unem sofisticação, acessibilidade e durabilidade. </span></p><p><span style=\"color: rgb(20, 74, 44)\">Combinamos o encanto da natureza com a praticidade das plantas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ornamentais permanentes e vasos de alta qualidade, garantindo</span></p><p><span style=\"color: rgb(20, 74, 44)\">beleza sem necessidade de cuidados constantes. </span></p><p><span style=\"color: rgb(20, 74, 44)\"><br>Nossa missão é criar espaços acolhedores e elegantes, oferecendo</span></p><p><span style=\"color: rgb(20, 74, 44)\">produtos sustentáveis, inovadores e com design impecável. Cada</span></p><p><span style=\"color: rgb(20, 74, 44)\">detalhe é pensado para proporcionar frescor, harmonia e estilo,</span></p><p><span style=\"color: rgb(20, 74, 44)\">conectando você à serenidade da natureza de maneira prática e</span></p><p><span style=\"color: rgb(20, 74, 44)\">moderna.<br><br>Inspiramos conexões emocionais e trazemos vida a qualquer</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente, refletindo nossa dedicação à qualidade, ao compromisso</span></p><p><span style=\"color: rgb(20, 74, 44)\">com o cliente e à beleza atemporal que transforma o cotidiano</span></p><p><span style=\"color: rgb(20, 74, 44)\">em algo especial.</span></p>",

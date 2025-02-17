@@ -32,11 +32,8 @@ function AboutUs({ interval, textContent, image }: Props) {
                 class="hidden lg:block absolute right-0 object-contain w-auto z-20 max-h-[703px]"
             />
             <span class="text-[#E6EDCE4D] text-[130px] lg:text-[400px] xl:text-[500px] absolute left-0 lg:left-[-120px] bottom-0 z-10 h-fit lg:top-0">Sobre</span>
-            <div id={id} class="container relative">
+            <div id={id} class="container relative xl:absolute xl:top-2/4 xl:translate-y-[-50%] xl:left-2/4 xl:translate-x-[-50%] z-[100]">
                 <Slider
-                    style={{
-                        height: `${containerPaddings}px`
-                    }}
                     class="carousel carousel-center w-full col-span-full row-span-full scrollbar-none gap-6 xl:items-center heightUnset">
                     {textContent?.map((text, index) => (
                         <Slider.Item index={index} class="carousel-item w-full">

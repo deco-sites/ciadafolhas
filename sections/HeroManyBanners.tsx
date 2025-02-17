@@ -27,7 +27,7 @@ function HeroManyBanners({ textContent, image, imageUnder }: Props) {
         }}
             class="relative bg-[#fefcf2e5] py-16">
             <img
-                class="hidden xl:block absolute left-0 object-contain w-auto max-h-[654px]"
+                class="hidden absolute left-0 object-contain w-auto max-h-[654px]"
                 src={asset("/hero-many-banners.svg")}
                 width={623}
                 height={654}
@@ -47,7 +47,7 @@ function HeroManyBanners({ textContent, image, imageUnder }: Props) {
                     height={image?.height || 614}
                     loading="lazy"
                     decoding="async"
-                    class="w-auto xl:absolute right-[25%] maxWidth"
+                    class="w-auto xl:absolute right-[25%] maxWidth z-20"
                 />
                 <Image
                     style={{
@@ -61,7 +61,7 @@ function HeroManyBanners({ textContent, image, imageUnder }: Props) {
                     height={imageUnder?.height || 614}
                     loading="lazy"
                     decoding="async"
-                    class="w-auto top-[-40px] xl:absolute right-0 maxWidth"
+                    class="w-auto top-[-51px] xl:absolute right-0 maxWidth"
                 />
             </div>
             <div class="container mt-7 xl:mt-0">
