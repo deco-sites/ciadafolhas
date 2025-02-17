@@ -45,7 +45,7 @@ function BannerItem({ image, lcp }: {
             aria-label={alt}
             class="relative overflow-y-hidden w-full"
         >
-            <Picture preload={lcp}>
+            <Picture class="" preload={lcp}>
                 <Source
                     media="(max-width: 767px)"
                     fetchPriority={lcp ? "high" : "auto"}
@@ -61,7 +61,7 @@ function BannerItem({ image, lcp }: {
                     height={659}
                 />
                 <img
-                    class="object-cover w-full h-full"
+                    class="object-cover w-full h-full min-h-[322px] lg:min-h-[659px] block"
                     loading={lcp ? "eager" : "lazy"}
                     src={desktop}
                     alt={alt}
@@ -70,7 +70,7 @@ function BannerItem({ image, lcp }: {
         </a>
     );
 }
-function Dots({ images, interval = 0 }: Props) {
+export function Dots({ images, interval = 0 }: Props) {
     return (
         <>
             <ul class="carousel !absolute justify-center gap-3 lg:gap-2 z-10 bottom-4">
@@ -90,7 +90,7 @@ function Dots({ images, interval = 0 }: Props) {
         </>
     );
 }
-function Buttons() {
+export function Buttons() {
     return (
         <>
             <div class="absolute flex items-center justify-center z-10 left-7 w-[50px] h-[50px]">

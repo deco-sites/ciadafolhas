@@ -31,6 +31,20 @@
     overflow: hidden;
     height: 100vh;
   }
+
+  @media screen and (max-width: 1280px) {
+    .heightUnset {
+      height: unset !important;
+    }
+
+    .maxWidth {
+      max-width: unset !important;
+      min-width: unset !important;
+      max-height: unset !important;
+      min-height: unset !important;
+      width: 100% !important;
+    }
+  }
 }
 
 @layer utilities {

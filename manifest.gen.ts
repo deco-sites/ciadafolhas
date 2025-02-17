@@ -4,29 +4,41 @@
 
 import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
-import * as $$$$$$0 from "./sections/ContactUs.tsx";
-import * as $$$$$$1 from "./sections/Footer.tsx";
-import * as $$$$$$2 from "./sections/HeroImage.tsx";
-import * as $$$$$$3 from "./sections/ItWorks.tsx";
-import * as $$$$$$4 from "./sections/Maps.tsx";
-import * as $$$$$$5 from "./sections/SimpleBannerText.tsx";
-import * as $$$$$$6 from "./sections/SliderImages.tsx";
-import * as $$$$$$7 from "./sections/Theme/Header.tsx";
-import * as $$$$$$8 from "./sections/Theme/Theme.tsx";
-import * as $$$$$$9 from "./sections/WhatsApp.tsx";
+import * as $$$$$$0 from "./sections/AboutUs.tsx";
+import * as $$$$$$1 from "./sections/ContactUs.tsx";
+import * as $$$$$$2 from "./sections/Footer.tsx";
+import * as $$$$$$3 from "./sections/HeroBText.tsx";
+import * as $$$$$$4 from "./sections/HeroColors.tsx";
+import * as $$$$$$5 from "./sections/HeroGrid.tsx";
+import * as $$$$$$6 from "./sections/HeroImage.tsx";
+import * as $$$$$$7 from "./sections/HeroManyBanners.tsx";
+import * as $$$$$$8 from "./sections/HeroMidBanner.tsx";
+import * as $$$$$$9 from "./sections/ItWorks.tsx";
+import * as $$$$$$10 from "./sections/Maps.tsx";
+import * as $$$$$$11 from "./sections/SimpleBannerText.tsx";
+import * as $$$$$$12 from "./sections/SliderImages.tsx";
+import * as $$$$$$13 from "./sections/Theme/Header.tsx";
+import * as $$$$$$14 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$15 from "./sections/WhatsApp.tsx";
 
 const manifest = {
   "sections": {
-    "site/sections/ContactUs.tsx": $$$$$$0,
-    "site/sections/Footer.tsx": $$$$$$1,
-    "site/sections/HeroImage.tsx": $$$$$$2,
-    "site/sections/ItWorks.tsx": $$$$$$3,
-    "site/sections/Maps.tsx": $$$$$$4,
-    "site/sections/SimpleBannerText.tsx": $$$$$$5,
-    "site/sections/SliderImages.tsx": $$$$$$6,
-    "site/sections/Theme/Header.tsx": $$$$$$7,
-    "site/sections/Theme/Theme.tsx": $$$$$$8,
-    "site/sections/WhatsApp.tsx": $$$$$$9,
+    "site/sections/AboutUs.tsx": $$$$$$0,
+    "site/sections/ContactUs.tsx": $$$$$$1,
+    "site/sections/Footer.tsx": $$$$$$2,
+    "site/sections/HeroBText.tsx": $$$$$$3,
+    "site/sections/HeroColors.tsx": $$$$$$4,
+    "site/sections/HeroGrid.tsx": $$$$$$5,
+    "site/sections/HeroImage.tsx": $$$$$$6,
+    "site/sections/HeroManyBanners.tsx": $$$$$$7,
+    "site/sections/HeroMidBanner.tsx": $$$$$$8,
+    "site/sections/ItWorks.tsx": $$$$$$9,
+    "site/sections/Maps.tsx": $$$$$$10,
+    "site/sections/SimpleBannerText.tsx": $$$$$$11,
+    "site/sections/SliderImages.tsx": $$$$$$12,
+    "site/sections/Theme/Header.tsx": $$$$$$13,
+    "site/sections/Theme/Theme.tsx": $$$$$$14,
+    "site/sections/WhatsApp.tsx": $$$$$$15,
   },
   "apps": {
     "site/apps/deco/htmx.ts": $$$$$$$$$$$0,

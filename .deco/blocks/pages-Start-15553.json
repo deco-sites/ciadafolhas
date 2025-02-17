@@ -3,10 +3,7 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "Header"
-      }
+      "__resolveType": "Header"
     },
     {
       "__resolveType": "site/sections/WhatsApp.tsx",
@@ -66,6 +63,122 @@
           "image": "https://data.decoassets.com/ciadafolhas/8ccf4521-5de4-45bf-a777-113e67e011ae/Group-18.png",
           "href": "/"
         }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroColors.tsx",
+        "textContent": "<p><strong><span style=\"color: #144a2c; font-size: 26pt\">A natureza ao seu</span></strong></p><p><strong><span style=\"color: #144a2c; font-size: 26pt\">alcance, todos os dias</span></strong></p><p><span style=\"color: #144a2c\">Imagine a </span><strong><span style=\"color: #144a2c\">tranquilidade</span></strong><span style=\"color: #144a2c\"> e a</span><strong><span style=\"color: #144a2c\"> sofisticação</span></strong></p><p><span style=\"color: #144a2c\">de um espaço decorado com </span><strong><span style=\"color: #144a2c\">plantas</span></strong><span style=\"color: #144a2c\"> que</span></p><p><span style=\"color: #144a2c\">não apenas</span><strong><span style=\"color: #144a2c\"> embelezam</span></strong><span style=\"color: #144a2c\">, mas também</span></p><p><span style=\"color: #144a2c\">trazem uma </span><strong><span style=\"color: #144a2c\">sensação de frescor</span></strong></p><p><span style=\"color: #144a2c\">e </span><strong><span style=\"color: #144a2c\">harmonia</span></strong><span style=\"color: #144a2c\">. <br><br>Com nossas</span><strong><span style=\"color: #144a2c\"> plantas ornamentais</span></strong></p><p><strong><span style=\"color: #144a2c\">permanentes,</span></strong><span style=\"color: #144a2c\"> você pode desfrutar desse</span></p><p><span style=\"color: #144a2c\">encanto diariamente, sem preocupações.</span></p>",
+        "images": [
+          {
+            "image": "https://data.decoassets.com/ciadafolhas/39921d4b-57cd-41ff-b7d4-993471214d6a/image-(6).png"
+          }
+        ],
+        "colorsImages": [
+          "https://data.decoassets.com/ciadafolhas/31d520c7-437b-4c67-8f46-48ed4fa8a12c/Rectangle-4.png",
+          "https://data.decoassets.com/ciadafolhas/98a04511-a753-48e2-b9c7-f8ac7ae3813c/Rectangle-5.png",
+          "https://data.decoassets.com/ciadafolhas/05fedddd-f36d-4ba7-8ce1-6778bfdc3a28/Rectangle-6.png",
+          "https://data.decoassets.com/ciadafolhas/0180d461-d107-47a9-9404-0b7e7da95c89/Rectangle-7.png",
+          "https://data.decoassets.com/ciadafolhas/23828f1f-d570-486e-8c45-24d4e882e1f1/Rectangle-8.png"
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroGrid.tsx",
+        "images": [
+          {
+            "image": "https://data.decoassets.com/ciadafolhas/58debc94-9401-47a5-b616-f5d30f04b9cd/ruffled-leaf-palm-gray-pot-4.png",
+            "text": "<p style=\"text-align: center\"><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">Plantas Permanentes</span></strong></p><p style=\"text-align: center\"><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">com aspecto natural</span></strong></p>"
+          },
+          {
+            "image": "https://data.decoassets.com/ciadafolhas/018b988c-c9bb-43b8-9614-55e0c4ac9ba1/image-7.png",
+            "text": "<p style=\"text-align: center\"><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">Ideal para</span></strong></p><p style=\"text-align: center\"><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">qualquer espaço</span></strong></p>"
+          },
+          {
+            "image": "https://data.decoassets.com/ciadafolhas/1175780b-31a5-43d0-bebf-1989cd1ae9e1/image-18.png",
+            "text": "<p style=\"text-align: center\"><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">Não requer</span></strong></p><p style=\"text-align: center\"><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">cuidados especiais</span></strong></p>"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroBText.tsx",
+        "image": {
+          "src": "https://data.decoassets.com/ciadafolhas/212cc170-abb3-4eb9-8d96-85db5c20b4f1/image-24.png"
+        },
+        "textContent": "<p><strong><span style=\"color: #144a2c; font-size: 26pt\">Nossos Vasos Decorativos</span></strong></p><p><strong><span style=\"color: #144a2c; font-size: 26pt\">dão o toque final de elegância.</span></strong></p><p><span style=\"color: #144a2c\">Complete a beleza das suas plantas ornamentais permanentes com</span></p><p><span style=\"color: #144a2c\">nossos </span><strong><span style=\"color: #144a2c\">vasos decorativos</span></strong><span style=\"color: #144a2c\">, projetados para </span><strong><span style=\"color: #144a2c\">transformar qualquer</span></strong></p><p><strong><span style=\"color: #144a2c\">ambiente</span></strong><span style=\"color: #144a2c\"> em um </span><strong><span style=\"color: #144a2c\">espaço encantador</span></strong><span style=\"color: #144a2c\"> e </span><strong><span style=\"color: #144a2c\">cheio de personalidade</span></strong><span style=\"color: #144a2c\">!</span></p><p><span style=\"color: #144a2c\">Com designs que unem estilo e funcionalidade, eles são a escolha</span></p><p><span style=\"color: #144a2c\">ideal para destacar a sua decoração.</span></p>",
+        "itemImages": [
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/3dc1cc94-619c-4b6f-941f-e7e3544e2c9d/image-17.png",
+            "width": 180,
+            "height": 246,
+            "alt": "Vaso cinza"
+          },
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/06acf52d-ed48-4871-bda0-1b8b7f02fb3b/image-17-(1).png",
+            "width": 128,
+            "height": 176,
+            "alt": "Vaso vermelho"
+          },
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/2efcdd80-0a37-42cd-9c24-51361612bed7/image-17-(2).png",
+            "alt": "Vaso verde",
+            "width": 90,
+            "height": 123
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroMidBanner.tsx",
+        "image": {
+          "src": "https://data.decoassets.com/ciadafolhas/16cacb6c-61d6-416b-abfc-4cf54d071711/pngegg-(6)-2.png",
+          "alt": "Vasos de plantas"
+        },
+        "title": "Por Que Escolher Nossos <strong>Vasos Decorativos</strong>?",
+        "leftTextItems": [
+          "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">Acabamentos</span></strong></p><p><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">Impecáveis</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Vasos com texturas suaves, rústicas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ou detalhes decorativos como</span></p><p><span style=\"color: rgb(20, 74, 44)\">relevos, estampas e pinturas</span></p><p><span style=\"color: rgb(20, 74, 44)\">artesanais que dão aquele toque</span></p><p><span style=\"color: rgb(20, 74, 44)\">único ao seu ambiente.</span></p>",
+          "<p><strong><span style=\"color: #144a2c; font-size: 18pt\">Variedade de Tamanhos</span></strong></p><p><span style=\"color: #144a2c\">Desde pequenos vasos para</span></p><p><span style=\"color: #144a2c\">delicadas até modelos robustos para</span></p><p><span style=\"color: #144a2c\">grandes plantas, temos o tamanho</span></p><p><span style=\"color: #144a2c\">perfeito para suas necessidades.</span></p>",
+          "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">Sustentável</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Opções produzidas com materiais</span></p><p><span style=\"color: rgb(20, 74, 44)\">recicláveis e processos eco-friendly</span></p><p><span style=\"color: rgb(20, 74, 44)\">para quem se preocupa com o meio</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente.</span></p>"
+        ],
+        "rightTextItems": [
+          "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 18pt\">Estilo Versátil</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">De modelos modernos e</span></p><p><span style=\"color: rgb(20, 74, 44)\">minimalistas a clássicos e rústicos,</span></p><p><span style=\"color: rgb(20, 74, 44)\">temos a opção perfeita para</span></p><p><span style=\"color: rgb(20, 74, 44)\">qualquer estilo de decoração.</span></p>",
+          "<p style=\"text-align: justify\"><strong><span style=\"color: #144a2c; font-size: 18pt\">Materiais de Alta</span></strong></p><p style=\"text-align: justify\"><strong><span style=\"color: #144a2c; font-size: 18pt\">Qualidade</span></strong></p><p><span style=\"color: #144a2c\">Disponíveis em cerâmica,</span></p><p><span style=\"color: #144a2c\">cimento, metal, plástico e</span></p><p><span style=\"color: #144a2c\">madeira, nossos vasos são</span></p><p><span style=\"color: #144a2c\">duráveis, resistentes e feitos para</span></p><p><span style=\"color: #144a2c\">durar.</span></p>",
+          "<p><strong><span style=\"color: #144a2c\">Leveza e</span></strong></p><p><strong><span style=\"color: #144a2c\">Praticidade</span></strong></p><p><span style=\"color: #144a2c\">Modelos fáceis de manusear e</span></p><p><span style=\"color: #144a2c\">reposicionar, permitindo que você</span></p><p><span style=\"color: #144a2c\">mude a decoração sempre que quiser.</span></p>"
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroManyBanners.tsx",
+        "textContent": "<p><strong><span style=\"color: #144a2c; font-size: 26pt\">Harmonia e Sofisticação</span></strong></p><p><strong><span style=\"color: #144a2c; font-size: 26pt\">em todos os detalhes</span></strong></p><p><span style=\"color: #144a2c\">Nossos vasos foram criados para se integrar</span></p><p><span style=\"color: #144a2c\">perfeitamente com suas plantas ornamentais</span></p><p><span style=\"color: #144a2c\">permanentes, garantindo um encaixe seguro</span></p><p><span style=\"color: #144a2c\">e um visual harmonioso. Seja para uso interno ou</span></p><p><span style=\"color: #144a2c\">externo, eles são fáceis de limpar e manter,</span></p><p><span style=\"color: #144a2c\">preservando sua beleza ao longo do tempo.</span></p><p></p><p><strong><span style=\"color: #144a2c; font-size: 19pt\">Transforme vasos e plantas</span></strong></p><p><strong><span style=\"color: #144a2c; font-size: 19pt\">em verdadeiras obras de arte</span></strong></p><p><span style=\"color: #144a2c\">Com nossos </span><strong><span style=\"color: #144a2c\">vasos decorativos</span></strong><span style=\"color: #144a2c\">, suas plantas</span></p><p><span style=\"color: #144a2c\">não serão apenas elementos de decoração, mas</span></p><p><span style=\"color: #144a2c\">verdadeiras protagonistas do ambiente. Dê o</span></p><p><span style=\"color: #144a2c\">toque final de charme, praticidade e </span><strong><span style=\"color: #144a2c\">elegância</span></strong></p><p><span style=\"color: #144a2c\">que sua </span><strong><span style=\"color: #144a2c\">casa </span></strong><span style=\"color: #144a2c\">ou </span><strong><span style=\"color: #144a2c\">escritório</span></strong><span style=\"color: #144a2c\"> merece!<br><br></span><strong><span style=\"color: #144a2c\">Escolha o seu agora e traga ainda mais estilo </span></strong></p><p><strong><span style=\"color: #144a2c\">para sua decoração!</span></strong></p>",
+        "image": {
+          "src": "https://data.decoassets.com/ciadafolhas/da286c51-4b9f-431e-8440-2ccdd6f157a9/image-26.png"
+        },
+        "imageUnder": {
+          "src": "https://data.decoassets.com/ciadafolhas/4a518b97-b0e7-432e-9668-509041e82ca1/image-39.png"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/AboutUs.tsx",
+        "image": {
+          "image": "https://data.decoassets.com/ciadafolhas/5f8364f8-a6e5-4c66-b9fd-d5b522d7b7f1/Object.png"
+        },
+        "textContent": [
+          "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 26pt\">a Companhia</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Somos apaixonados por transformar ambientes através de soluções</span></p><p><span style=\"color: rgb(20, 74, 44)\">decorativas que unem sofisticação, acessibilidade e durabilidade. </span></p><p><span style=\"color: rgb(20, 74, 44)\">Combinamos o encanto da natureza com a praticidade das plantas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ornamentais permanentes e vasos de alta qualidade, garantindo</span></p><p><span style=\"color: rgb(20, 74, 44)\">beleza sem necessidade de cuidados constantes. </span></p><p><span style=\"color: rgb(20, 74, 44)\"><br>Nossa missão é criar espaços acolhedores e elegantes, oferecendo</span></p><p><span style=\"color: rgb(20, 74, 44)\">produtos sustentáveis, inovadores e com design impecável. Cada</span></p><p><span style=\"color: rgb(20, 74, 44)\">detalhe é pensado para proporcionar frescor, harmonia e estilo,</span></p><p><span style=\"color: rgb(20, 74, 44)\">conectando você à serenidade da natureza de maneira prática e</span></p><p><span style=\"color: rgb(20, 74, 44)\">moderna.<br><br>Inspiramos conexões emocionais e trazemos vida a qualquer</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente, refletindo nossa dedicação à qualidade, ao compromisso</span></p><p><span style=\"color: rgb(20, 74, 44)\">com o cliente e à beleza atemporal que transforma o cotidiano</span></p><p><span style=\"color: rgb(20, 74, 44)\">em algo especial.</span></p>",
+          "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 26pt\">a Companhia</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Somos apaixonados por transformar ambientes através de soluções</span></p><p><span style=\"color: rgb(20, 74, 44)\">decorativas que unem sofisticação, acessibilidade e durabilidade. </span></p><p><span style=\"color: rgb(20, 74, 44)\">Combinamos o encanto da natureza com a praticidade das plantas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ornamentais permanentes e vasos de alta qualidade, garantindo</span></p><p><span style=\"color: rgb(20, 74, 44)\">beleza sem necessidade de cuidados constantes. </span></p><p><span style=\"color: rgb(20, 74, 44)\"><br>Nossa missão é criar espaços acolhedores e elegantes, oferecendo</span></p><p><span style=\"color: rgb(20, 74, 44)\">produtos sustentáveis, inovadores e com design impecável. Cada</span></p><p><span style=\"color: rgb(20, 74, 44)\">detalhe é pensado para proporcionar frescor, harmonia e estilo,</span></p><p><span style=\"color: rgb(20, 74, 44)\">conectando você à serenidade da natureza de maneira prática e</span></p><p><span style=\"color: rgb(20, 74, 44)\">moderna.<br><br>Inspiramos conexões emocionais e trazemos vida a qualquer</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente, refletindo nossa dedicação à qualidade, ao compromisso</span></p><p><span style=\"color: rgb(20, 74, 44)\">com o cliente e à beleza atemporal que transforma o cotidiano</span></p><p><span style=\"color: rgb(20, 74, 44)\">em algo especial.</span></p>"
+        ]
       }
     },
     {

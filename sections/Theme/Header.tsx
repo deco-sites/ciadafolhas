@@ -17,7 +17,7 @@ interface Props {
 
 function Header({ items, image }: Props) {
     return (
-        <div class="navbar lg:!p-0 fixed top-6 w-full z-10">
+        <div class="navbar lg:!p-0 fixed top-6 w-full z-50">
             {/* Mobile View */}
             <div class="lg:hidden w-full">
                 <div class="flex justify-between items-start w-full">
