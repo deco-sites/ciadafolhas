@@ -1,6 +1,6 @@
 import { ImageWidget, RichText } from "apps/admin/widgets.ts";
 import Image from "apps/website/components/Image.tsx";
-import { useId } from "preact/hooks";
+import { useId } from "../sdk/useId.ts";
 import SliderJS from "../islands/newSliderJS.tsx";
 import Slider from "../components/SliderImages/Slider.tsx";
 

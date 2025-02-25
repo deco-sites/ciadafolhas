@@ -2,7 +2,7 @@ import { ImageWidget, RichText } from "apps/admin/widgets.ts";
 import Image from "apps/website/components/Image.tsx";
 import Slider from "../components/SliderImages/Slider.tsx";
 import SliderJS from "../islands/newSliderJS.tsx";
-import { useId } from "preact/hooks";
+import { useId } from "../sdk/useId.ts";
 import { asset } from "$fresh/runtime.ts";
 
 interface Props {
@@ -29,7 +29,6 @@ function HeroColors({ textContent, images, colorsImages, interval }: Props) {
         return null;
     }
     const hasManyItems = images.length > 1;
-    console.log(hasManyItems, "herocolor")
     return (
         <div style={{
             height: `${containerPaddings}px`

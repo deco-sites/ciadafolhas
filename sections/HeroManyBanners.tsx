@@ -34,7 +34,7 @@ function HeroManyBanners({ textContent, image, imageUnder }: Props) {
                 alt="Vaso decorativo"
                 loading="lazy"
             />
-            <div class="xl:absolute right-0 flex flex-col xl:flex-row gap-5 xl:w-[956px] xl:h-[614px]">
+            <div class="xl:absolute right-0 flex flex-col lg:flex-row gap-5 lg:w-[956px] lg:h-[614px] lg:ml-auto">
                 <Image
                     style={{
                         minWidth: `${image?.width ? image?.width : '478'}px`,
