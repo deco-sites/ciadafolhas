@@ -3,7 +3,6 @@ import Image from "apps/website/components/Image.tsx";
 import Slider from "../components/SliderImages/Slider.tsx";
 import SliderJS from "../islands/newSliderJS.tsx";
 import { useId } from "preact/hooks";
-import { Buttons } from "site/components/SliderImages/SliderImages.tsx";
 import { asset } from "$fresh/runtime.ts";
 
 interface Props {
@@ -29,7 +28,8 @@ function HeroColors({ textContent, images, colorsImages, interval }: Props) {
     if (!images || images.length === 0) {
         return null;
     }
-    const hasManyItems = images.length <= 1;
+    const hasManyItems = images.length > 1;
+    console.log(hasManyItems, "herocolor")
     return (
         <div style={{
             height: `${containerPaddings}px`
@@ -37,7 +37,7 @@ function HeroColors({ textContent, images, colorsImages, interval }: Props) {
             <div id={id} class="flex items-center justify-center xl:absolute right-0 top-0 w-fit">
                 <Slider class="carousel carousel-center w-full col-span-full row-span-full scrollbar-none gap-6">
                     {images?.map((image, index) => (
-                        <Slider.Item index={index} class="carousel-item w-full">
+                        <Slider.Item index={index} class="carousel-item w-full justify-end">
                             <Image
                                 src={image.image || ""}
                                 alt={image.alt || ""}
@@ -48,7 +48,18 @@ function HeroColors({ textContent, images, colorsImages, interval }: Props) {
                     ))}
                 </Slider>
 
-                {hasManyItems && <Buttons />}
+                {hasManyItems && <div class="max-w-[963px] ml-auto w-full absolute h-[50px] right-0">
+                    <div class="absolute flex items-center justify-center z-10 left-7 w-[50px] h-[50px]">
+                        <Slider.PrevButton class="text-white text-[30px]">
+                            ❮
+                        </Slider.PrevButton>
+                    </div>
+                    <div class="absolute flex items-center justify-center z-10 right-7 w-[50px] h-[50px]">
+                        <Slider.NextButton class="text-white text-[30px]">
+                            ❯
+                        </Slider.NextButton>
+                    </div>
+                </div>}
 
                 <SliderJS rootId={id} interval={interval && interval * 1e3} infinite />
             </div>

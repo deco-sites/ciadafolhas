@@ -73,6 +73,9 @@
         "images": [
           {
             "image": "https://data.decoassets.com/ciadafolhas/39921d4b-57cd-41ff-b7d4-993471214d6a/image-(6).png"
+          },
+          {
+            "image": "https://data.decoassets.com/ciadafolhas/39921d4b-57cd-41ff-b7d4-993471214d6a/image-(6).png"
           }
         ],
         "colorsImages": [
@@ -109,7 +112,8 @@
       "section": {
         "__resolveType": "site/sections/HeroBText.tsx",
         "image": {
-          "src": "https://data.decoassets.com/ciadafolhas/212cc170-abb3-4eb9-8d96-85db5c20b4f1/image-24.png"
+          "src": "https://data.decoassets.com/ciadafolhas/212cc170-abb3-4eb9-8d96-85db5c20b4f1/image-24.png",
+          "alt": "Vasos decorativos"
         },
         "textContent": "<p><strong><span style=\"color: #144a2c; font-size: 26pt\">Nossos Vasos Decorativos</span></strong></p><p><strong><span style=\"color: #144a2c; font-size: 26pt\">dão o toque final de elegância.</span></strong></p><p><span style=\"color: #144a2c\">Complete a beleza das suas plantas ornamentais permanentes com</span></p><p><span style=\"color: #144a2c\">nossos </span><strong><span style=\"color: #144a2c\">vasos decorativos</span></strong><span style=\"color: #144a2c\">, projetados para </span><strong><span style=\"color: #144a2c\">transformar qualquer</span></strong></p><p><strong><span style=\"color: #144a2c\">ambiente</span></strong><span style=\"color: #144a2c\"> em um </span><strong><span style=\"color: #144a2c\">espaço encantador</span></strong><span style=\"color: #144a2c\"> e </span><strong><span style=\"color: #144a2c\">cheio de personalidade</span></strong><span style=\"color: #144a2c\">!</span></p><p><span style=\"color: #144a2c\">Com designs que unem estilo e funcionalidade, eles são a escolha</span></p><p><span style=\"color: #144a2c\">ideal para destacar a sua decoração.</span></p>",
         "itemImages": [
@@ -168,6 +172,31 @@
           "width": 376,
           "height": 665
         }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Instagram.tsx",
+        "title": "Nosso Instagram",
+        "tag": "ciadasfolhas",
+        "images": [
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/5e0c343f-3195-434d-adcc-4e5cda6c3a85/image-22.png"
+          },
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/13e4ad75-2109-4a8d-bd81-d731e92e6001/image-23.png"
+          },
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/f819182e-cf76-424a-91ff-6cc0bccf74e2/image-19.png"
+          },
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/170ad808-07ee-4cbd-afa1-704816d6f166/image-25.png"
+          },
+          {
+            "src": "https://data.decoassets.com/ciadafolhas/5e0c343f-3195-434d-adcc-4e5cda6c3a85/image-22.png"
+          }
+        ]
       }
     },
     {
