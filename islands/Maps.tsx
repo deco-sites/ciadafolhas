@@ -10,9 +10,14 @@ interface Props {
     title?: string;
     /** @description Insert your google maps API KEY */
     apiKey?: string;
+    /** @description Insert here to change the default center value map */
+    mapCenter?: {
+        latitude?: string;
+        longitude?: string;
+    }
 }
 
-const Maps = ({ title, apiKey }: Props) => {
+const Maps = ({ title, apiKey, mapCenter }: Props) => {
     const mapRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -31,12 +36,19 @@ const Maps = ({ title, apiKey }: Props) => {
 
         const initMap = () => {
             if (window.google && mapRef.current) {
-                new window.google.maps.Map(mapRef.current, {
-                    center: { lat: -23.55052, lng: -46.633308 },
+                const map = new window.google.maps.Map(mapRef.current, {
+                    center: { lat: parseFloat(mapCenter?.latitude ?? "-23.5337667"), lng: parseFloat(mapCenter?.longitude ?? "-46.732378") },
                     zoom: 14,
+                });
+
+                new window.google.maps.Marker({
+                    position: { lat: parseFloat(mapCenter?.latitude ?? "-23.5337667"), lng: parseFloat(mapCenter?.longitude ?? "-46.732378") },
+                    map: map,
+                    title: "Localização",
                 });
             }
         };
+
 
         loadGoogleMaps();
     }, []);
