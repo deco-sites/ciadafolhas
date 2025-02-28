@@ -3,6 +3,7 @@ import Image from "apps/website/components/Image.tsx";
 import SliderJS from "../islands/newSliderJS.tsx";
 import Slider from "../components/SliderImages/Slider.tsx";
 import { useId } from "../sdk/useId.ts";
+import { asset } from "$fresh/runtime.ts";
 
 interface Props {
     title?: string;
@@ -29,7 +30,23 @@ function Instagram({ title, tag, images, interval }: Props) {
     const hasManyItems = images.length > 4;
     return (
         <div>
-            <div class="flex flex-col py-8 lg:py-[46px]">
+            <div class="flex flex-col py-8 lg:py-[46px] 2xl:pt-20 relative">
+                <img
+                    class="object-cover absolute left-0 top-[-140px] hidden lg:block 2xl:hidden z-10"
+                    src={asset("/plant_inst.png")}
+                    width={246}
+                    height={500}
+                    alt="Plantas"
+                    loading="lazy"
+                />
+                <img
+                    class="object-cover absolute left-0 top-[-190px] hidden 2xl:block z-10"
+                    src={asset("/plant_inst_xl.png")}
+                    width={415}
+                    height={487}
+                    alt="Plantas"
+                    loading="lazy"
+                />
                 <h2 class="text-[#144A2C] font-bold text-2xl lg:text-[35px] lg:leading-[40px] text-center">{title}</h2>
                 <a href={`https://www.instagram.com/${tag}`} target="_blank" class="mt-2 mb-9 lg:mb-12 text-center"><span class="text-[#144A2C] text-base lg:text-[20px] text-center underline ">@{tag}</span></a>
                 <div id={id} class="relative max-w-[1440px] mx-auto"> <Slider

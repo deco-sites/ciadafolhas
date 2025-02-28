@@ -13,6 +13,18 @@ export default defineApp(async (_req, ctx) => {
 
       {/* Include Icons and manifest */}
       <Head>
+        <script type="text/javascript"
+          src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+        </script>
+        <script type="text/javascript" dangerouslySetInnerHTML={{
+          __html: `
+  (function(){
+    emailjs.init({
+      publicKey: "NGHDDaHUxSaMidKvD",
+     });
+   })();
+  `
+        }} />
         {/* Enable View Transitions API */}
         <meta name="view-transition" content="same-origin" />
 

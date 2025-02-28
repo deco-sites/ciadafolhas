@@ -60,8 +60,11 @@
       "section": {
         "__resolveType": "site/sections/HeroImage.tsx",
         "image": {
-          "image": "https://data.decoassets.com/ciadafolhas/8ccf4521-5de4-45bf-a777-113e67e011ae/Group-18.png",
-          "href": "/"
+          "image": "https://data.decoassets.com/ciadafolhas/94805f57-568c-4ae8-9022-b33e5672d506/Group-20-(2).png",
+          "href": "/",
+          "width": 1096,
+          "height": 642,
+          "imageMobile": "https://data.decoassets.com/ciadafolhas/8ccf4521-5de4-45bf-a777-113e67e011ae/Group-18.png"
         }
       }
     },

@@ -5,9 +5,12 @@ import { asset } from "$fresh/runtime.ts";
 interface Props {
     image?: {
         image?: ImageWidget;
-        alt?: string;
         width?: number;
         height?: number;
+        imageMobile?: ImageWidget;
+        widthMobile?: number;
+        heightMobile?: number;
+        alt?: string;
     }
 }
 
@@ -22,10 +25,10 @@ function HeroImage({ image }: Props) {
                         height={image.height || 796}
                         width={image.width || 1171}
                         class="hidden lg:block mx-auto" /><Image
-                            src={image.image || ""}
+                            src={image.imageMobile || ""}
                             alt={"Explicativo das plantas"}
-                            height={image.height || 296}
-                            width={image.width || 571}
+                            height={image.heightMobile || 296}
+                            width={image.widthMobile || 571}
                             class="lg:hidden" /></>
 
                 )}
