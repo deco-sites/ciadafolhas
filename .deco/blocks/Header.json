@@ -9,24 +9,24 @@
   "items": [
     {
       "text": "Plantas",
-      "link": "/",
+      "link": "#plantas",
       "highlight": true
     },
     {
       "text": "Vasos",
-      "link": "/"
+      "link": "#vasos"
     },
     {
       "text": "Instagram",
-      "link": "/"
+      "link": "#instagram"
     },
     {
       "text": "Sobre",
-      "link": "/"
+      "link": "#aboutus"
     },
     {
       "text": "Fale com a gente",
-      "link": "/"
+      "link": "#contactus"
     }
   ]
 }

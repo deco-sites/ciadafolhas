@@ -50,7 +50,7 @@ function ContactUs({ image, contact }: Props) {
             );
     };
     return (
-        <div class="flex flex-col sm:flex-row mb-28 mt-10 sm:mt-32">
+        <div id="contactus" class="flex flex-col sm:flex-row mb-28 mt-10 sm:mt-32">
             {image && <Image
                 src={image.image || ""}
                 alt={"Telefone"}

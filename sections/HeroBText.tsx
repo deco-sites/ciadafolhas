@@ -19,7 +19,7 @@ interface Props {
 
 function HeroBText({ image, textContent, itemImages }: Props) {
     return (
-        <div class="relative xl:h-[581px] bg-[#fefcf2e5] 2xl:flex 2xl:h-[unset] 2xl:container 2xl:mx-auto">
+        <div id="vasos" class="relative xl:h-[581px] bg-[#fefcf2e5] 2xl:flex 2xl:h-[unset] 2xl:container 2xl:mx-auto">
             <Image
                 src={image?.src ?? ''}
                 alt={image?.alt}

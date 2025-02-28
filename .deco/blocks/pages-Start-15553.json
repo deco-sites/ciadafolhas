@@ -56,16 +56,13 @@
       }
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/HeroImage.tsx",
-        "image": {
-          "image": "https://data.decoassets.com/ciadafolhas/94805f57-568c-4ae8-9022-b33e5672d506/Group-20-(2).png",
-          "href": "/",
-          "width": 1096,
-          "height": 642,
-          "imageMobile": "https://data.decoassets.com/ciadafolhas/8ccf4521-5de4-45bf-a777-113e67e011ae/Group-18.png"
-        }
+      "__resolveType": "site/sections/HeroImage.tsx",
+      "image": {
+        "image": "https://data.decoassets.com/ciadafolhas/94805f57-568c-4ae8-9022-b33e5672d506/Group-20-(2).png",
+        "href": "/",
+        "width": 1096,
+        "height": 642,
+        "imageMobile": "https://data.decoassets.com/ciadafolhas/8ccf4521-5de4-45bf-a777-113e67e011ae/Group-18.png"
       }
     },
     {
@@ -111,35 +108,32 @@
       }
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/HeroBText.tsx",
-        "image": {
-          "src": "https://data.decoassets.com/ciadafolhas/212cc170-abb3-4eb9-8d96-85db5c20b4f1/image-24.png",
-          "alt": "Vasos decorativos"
+      "__resolveType": "site/sections/HeroBText.tsx",
+      "image": {
+        "src": "https://data.decoassets.com/ciadafolhas/212cc170-abb3-4eb9-8d96-85db5c20b4f1/image-24.png",
+        "alt": "Vasos decorativos"
+      },
+      "textContent": "<p><strong><span style=\"color: #144a2c; font-size: 26pt\">Nossos Vasos Decorativos</span></strong></p><p><strong><span style=\"color: #144a2c; font-size: 26pt\">dão o toque final de elegância.</span></strong></p><p><span style=\"color: #144a2c\">Complete a beleza das suas plantas ornamentais permanentes com</span></p><p><span style=\"color: #144a2c\">nossos </span><strong><span style=\"color: #144a2c\">vasos decorativos</span></strong><span style=\"color: #144a2c\">, projetados para </span><strong><span style=\"color: #144a2c\">transformar qualquer</span></strong></p><p><strong><span style=\"color: #144a2c\">ambiente</span></strong><span style=\"color: #144a2c\"> em um </span><strong><span style=\"color: #144a2c\">espaço encantador</span></strong><span style=\"color: #144a2c\"> e </span><strong><span style=\"color: #144a2c\">cheio de personalidade</span></strong><span style=\"color: #144a2c\">!</span></p><p><span style=\"color: #144a2c\">Com designs que unem estilo e funcionalidade, eles são a escolha</span></p><p><span style=\"color: #144a2c\">ideal para destacar a sua decoração.</span></p>",
+      "itemImages": [
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/3dc1cc94-619c-4b6f-941f-e7e3544e2c9d/image-17.png",
+          "width": 180,
+          "height": 246,
+          "alt": "Vaso cinza"
         },
-        "textContent": "<p><strong><span style=\"color: #144a2c; font-size: 26pt\">Nossos Vasos Decorativos</span></strong></p><p><strong><span style=\"color: #144a2c; font-size: 26pt\">dão o toque final de elegância.</span></strong></p><p><span style=\"color: #144a2c\">Complete a beleza das suas plantas ornamentais permanentes com</span></p><p><span style=\"color: #144a2c\">nossos </span><strong><span style=\"color: #144a2c\">vasos decorativos</span></strong><span style=\"color: #144a2c\">, projetados para </span><strong><span style=\"color: #144a2c\">transformar qualquer</span></strong></p><p><strong><span style=\"color: #144a2c\">ambiente</span></strong><span style=\"color: #144a2c\"> em um </span><strong><span style=\"color: #144a2c\">espaço encantador</span></strong><span style=\"color: #144a2c\"> e </span><strong><span style=\"color: #144a2c\">cheio de personalidade</span></strong><span style=\"color: #144a2c\">!</span></p><p><span style=\"color: #144a2c\">Com designs que unem estilo e funcionalidade, eles são a escolha</span></p><p><span style=\"color: #144a2c\">ideal para destacar a sua decoração.</span></p>",
-        "itemImages": [
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/3dc1cc94-619c-4b6f-941f-e7e3544e2c9d/image-17.png",
-            "width": 180,
-            "height": 246,
-            "alt": "Vaso cinza"
-          },
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/06acf52d-ed48-4871-bda0-1b8b7f02fb3b/image-17-(1).png",
-            "width": 128,
-            "height": 176,
-            "alt": "Vaso vermelho"
-          },
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/2efcdd80-0a37-42cd-9c24-51361612bed7/image-17-(2).png",
-            "alt": "Vaso verde",
-            "width": 90,
-            "height": 123
-          }
-        ]
-      }
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/06acf52d-ed48-4871-bda0-1b8b7f02fb3b/image-17-(1).png",
+          "width": 128,
+          "height": 176,
+          "alt": "Vaso vermelho"
+        },
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/2efcdd80-0a37-42cd-9c24-51361612bed7/image-17-(2).png",
+          "alt": "Vaso verde",
+          "width": 90,
+          "height": 123
+        }
+      ]
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -178,71 +172,62 @@
       }
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Instagram.tsx",
-        "title": "Nosso Instagram",
-        "tag": "ciadasfolhas",
-        "images": [
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/5e0c343f-3195-434d-adcc-4e5cda6c3a85/image-22.png"
-          },
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/13e4ad75-2109-4a8d-bd81-d731e92e6001/image-23.png"
-          },
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/f819182e-cf76-424a-91ff-6cc0bccf74e2/image-19.png"
-          },
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/170ad808-07ee-4cbd-afa1-704816d6f166/image-25.png"
-          },
-          {
-            "src": "https://data.decoassets.com/ciadafolhas/5e0c343f-3195-434d-adcc-4e5cda6c3a85/image-22.png"
-          }
-        ]
-      }
+      "__resolveType": "site/sections/Instagram.tsx",
+      "title": "Nosso Instagram",
+      "tag": "ciadasfolhas",
+      "images": [
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/5e0c343f-3195-434d-adcc-4e5cda6c3a85/image-22.png"
+        },
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/13e4ad75-2109-4a8d-bd81-d731e92e6001/image-23.png"
+        },
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/f819182e-cf76-424a-91ff-6cc0bccf74e2/image-19.png"
+        },
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/170ad808-07ee-4cbd-afa1-704816d6f166/image-25.png"
+        },
+        {
+          "src": "https://data.decoassets.com/ciadafolhas/5e0c343f-3195-434d-adcc-4e5cda6c3a85/image-22.png"
+        }
+      ]
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/AboutUs.tsx",
-        "image": {
-          "image": "https://data.decoassets.com/ciadafolhas/5f8364f8-a6e5-4c66-b9fd-d5b522d7b7f1/Object.png",
-          "width": 405,
-          "height": 703
-        },
-        "textContent": [
-          "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 26pt\">a Companhia</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Somos apaixonados por transformar ambientes através de soluções</span></p><p><span style=\"color: rgb(20, 74, 44)\">decorativas que unem sofisticação, acessibilidade e durabilidade. </span></p><p><span style=\"color: rgb(20, 74, 44)\">Combinamos o encanto da natureza com a praticidade das plantas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ornamentais permanentes e vasos de alta qualidade, garantindo</span></p><p><span style=\"color: rgb(20, 74, 44)\">beleza sem necessidade de cuidados constantes. </span></p><p><span style=\"color: rgb(20, 74, 44)\"><br>Nossa missão é criar espaços acolhedores e elegantes, oferecendo</span></p><p><span style=\"color: rgb(20, 74, 44)\">produtos sustentáveis, inovadores e com design impecável. Cada</span></p><p><span style=\"color: rgb(20, 74, 44)\">detalhe é pensado para proporcionar frescor, harmonia e estilo,</span></p><p><span style=\"color: rgb(20, 74, 44)\">conectando você à serenidade da natureza de maneira prática e</span></p><p><span style=\"color: rgb(20, 74, 44)\">moderna.<br><br>Inspiramos conexões emocionais e trazemos vida a qualquer</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente, refletindo nossa dedicação à qualidade, ao compromisso</span></p><p><span style=\"color: rgb(20, 74, 44)\">com o cliente e à beleza atemporal que transforma o cotidiano</span></p><p><span style=\"color: rgb(20, 74, 44)\">em algo especial.</span></p>",
-          "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 26pt\">a Companhia</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Somos apaixonados por transformar ambientes através de soluções</span></p><p><span style=\"color: rgb(20, 74, 44)\">decorativas que unem sofisticação, acessibilidade e durabilidade. </span></p><p><span style=\"color: rgb(20, 74, 44)\">Combinamos o encanto da natureza com a praticidade das plantas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ornamentais permanentes e vasos de alta qualidade, garantindo</span></p><p><span style=\"color: rgb(20, 74, 44)\">beleza sem necessidade de cuidados constantes. </span></p><p><span style=\"color: rgb(20, 74, 44)\"><br>Nossa missão é criar espaços acolhedores e elegantes, oferecendo</span></p><p><span style=\"color: rgb(20, 74, 44)\">produtos sustentáveis, inovadores e com design impecável. Cada</span></p><p><span style=\"color: rgb(20, 74, 44)\">detalhe é pensado para proporcionar frescor, harmonia e estilo,</span></p><p><span style=\"color: rgb(20, 74, 44)\">conectando você à serenidade da natureza de maneira prática e</span></p><p><span style=\"color: rgb(20, 74, 44)\">moderna.<br><br>Inspiramos conexões emocionais e trazemos vida a qualquer</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente, refletindo nossa dedicação à qualidade, ao compromisso</span></p><p><span style=\"color: rgb(20, 74, 44)\">com o cliente e à beleza atemporal que transforma o cotidiano</span></p><p><span style=\"color: rgb(20, 74, 44)\">em algo especial.</span></p>"
-        ]
-      }
+      "__resolveType": "site/sections/AboutUs.tsx",
+      "image": {
+        "image": "https://data.decoassets.com/ciadafolhas/5f8364f8-a6e5-4c66-b9fd-d5b522d7b7f1/Object.png",
+        "width": 405,
+        "height": 703
+      },
+      "textContent": [
+        "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 26pt\">a Companhia</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Somos apaixonados por transformar ambientes através de soluções</span></p><p><span style=\"color: rgb(20, 74, 44)\">decorativas que unem sofisticação, acessibilidade e durabilidade. </span></p><p><span style=\"color: rgb(20, 74, 44)\">Combinamos o encanto da natureza com a praticidade das plantas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ornamentais permanentes e vasos de alta qualidade, garantindo</span></p><p><span style=\"color: rgb(20, 74, 44)\">beleza sem necessidade de cuidados constantes. </span></p><p><span style=\"color: rgb(20, 74, 44)\"><br>Nossa missão é criar espaços acolhedores e elegantes, oferecendo</span></p><p><span style=\"color: rgb(20, 74, 44)\">produtos sustentáveis, inovadores e com design impecável. Cada</span></p><p><span style=\"color: rgb(20, 74, 44)\">detalhe é pensado para proporcionar frescor, harmonia e estilo,</span></p><p><span style=\"color: rgb(20, 74, 44)\">conectando você à serenidade da natureza de maneira prática e</span></p><p><span style=\"color: rgb(20, 74, 44)\">moderna.<br><br>Inspiramos conexões emocionais e trazemos vida a qualquer</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente, refletindo nossa dedicação à qualidade, ao compromisso</span></p><p><span style=\"color: rgb(20, 74, 44)\">com o cliente e à beleza atemporal que transforma o cotidiano</span></p><p><span style=\"color: rgb(20, 74, 44)\">em algo especial.</span></p>",
+        "<p><strong><span style=\"color: rgb(20, 74, 44); font-size: 26pt\">a Companhia</span></strong></p><p><span style=\"color: rgb(20, 74, 44)\">Somos apaixonados por transformar ambientes através de soluções</span></p><p><span style=\"color: rgb(20, 74, 44)\">decorativas que unem sofisticação, acessibilidade e durabilidade. </span></p><p><span style=\"color: rgb(20, 74, 44)\">Combinamos o encanto da natureza com a praticidade das plantas</span></p><p><span style=\"color: rgb(20, 74, 44)\">ornamentais permanentes e vasos de alta qualidade, garantindo</span></p><p><span style=\"color: rgb(20, 74, 44)\">beleza sem necessidade de cuidados constantes. </span></p><p><span style=\"color: rgb(20, 74, 44)\"><br>Nossa missão é criar espaços acolhedores e elegantes, oferecendo</span></p><p><span style=\"color: rgb(20, 74, 44)\">produtos sustentáveis, inovadores e com design impecável. Cada</span></p><p><span style=\"color: rgb(20, 74, 44)\">detalhe é pensado para proporcionar frescor, harmonia e estilo,</span></p><p><span style=\"color: rgb(20, 74, 44)\">conectando você à serenidade da natureza de maneira prática e</span></p><p><span style=\"color: rgb(20, 74, 44)\">moderna.<br><br>Inspiramos conexões emocionais e trazemos vida a qualquer</span></p><p><span style=\"color: rgb(20, 74, 44)\">ambiente, refletindo nossa dedicação à qualidade, ao compromisso</span></p><p><span style=\"color: rgb(20, 74, 44)\">com o cliente e à beleza atemporal que transforma o cotidiano</span></p><p><span style=\"color: rgb(20, 74, 44)\">em algo especial.</span></p>"
+      ]
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/ContactUs.tsx",
-        "image": {
-          "image": "https://data.decoassets.com/ciadafolhas/5b000c96-cccc-4007-94f7-3608a520f475/b56b9925-09e4-4ef8-a042-8994c9e22c77-1.svg"
+      "__resolveType": "site/sections/ContactUs.tsx",
+      "image": {
+        "image": "https://data.decoassets.com/ciadafolhas/5b000c96-cccc-4007-94f7-3608a520f475/b56b9925-09e4-4ef8-a042-8994c9e22c77-1.svg"
+      },
+      "contact": [
+        {
+          "icon": "https://data.decoassets.com/ciadafolhas/3feb1a5a-d1ae-455f-8884-3ca331471c78/Vector-(6).svg",
+          "text": "<u>(11) 94736-1414</u>"
         },
-        "contact": [
-          {
-            "icon": "https://data.decoassets.com/ciadafolhas/3feb1a5a-d1ae-455f-8884-3ca331471c78/Vector-(6).svg",
-            "text": "<u>(11) 94736-1414</u>"
-          },
-          {
-            "icon": "https://data.decoassets.com/ciadafolhas/fefe502b-4a09-4a9b-b67e-a1a68a7e4cd4/Vector-(7).svg",
-            "text": "<u>(11) 94736-1414</u>"
-          },
-          {
-            "text": "Segunda a Sábado<br/> 8:40 às 17h",
-            "icon": "https://data.decoassets.com/ciadafolhas/2babd5fd-6d0c-49f3-8409-269d03332cab/Group.svg"
-          },
-          {
-            "text": "Rua Baumann, 925<br/> Vila Leopoldina, São Paulo",
-            "icon": "https://data.decoassets.com/ciadafolhas/948ba853-fb3e-47ac-8b06-5f2a44d3105c/Group-(1).svg"
-          }
-        ]
-      }
+        {
+          "icon": "https://data.decoassets.com/ciadafolhas/fefe502b-4a09-4a9b-b67e-a1a68a7e4cd4/Vector-(7).svg",
+          "text": "<u>(11) 94736-1414</u>"
+        },
+        {
+          "text": "Segunda a Sábado<br/> 8:40 às 17h",
+          "icon": "https://data.decoassets.com/ciadafolhas/2babd5fd-6d0c-49f3-8409-269d03332cab/Group.svg"
+        },
+        {
+          "text": "Rua Baumann, 925<br/> Vila Leopoldina, São Paulo",
+          "icon": "https://data.decoassets.com/ciadafolhas/948ba853-fb3e-47ac-8b06-5f2a44d3105c/Group-(1).svg"
+        }
+      ]
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",

@@ -17,7 +17,7 @@ interface Props {
 function HeroImage({ image }: Props) {
     return (
         <div class="relative mt-10 lg:mt-16">
-            <div class="container px-4 lg:pr-10">
+            <div id="plantas" class="container px-4 lg:pr-10">
                 {image && (
                     <><Image
                         src={image.image || ""}

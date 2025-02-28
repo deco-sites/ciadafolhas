@@ -30,7 +30,7 @@ function Instagram({ title, tag, images, interval }: Props) {
     const hasManyItems = images.length > 4;
     return (
         <div>
-            <div class="flex flex-col py-8 lg:py-[46px] 2xl:pt-20 relative">
+            <div id="instagram" class="flex flex-col py-8 lg:py-[46px] 2xl:pt-20 relative">
                 <img
                     class="object-cover absolute left-0 top-[-140px] hidden lg:block 2xl:hidden z-10"
                     src={asset("/plant_inst.png")}

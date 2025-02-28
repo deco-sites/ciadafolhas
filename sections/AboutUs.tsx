@@ -21,7 +21,7 @@ function AboutUs({ interval, textContent, image }: Props) {
     const containerPaddings = 789;
 
     return (
-        <div style={{
+        <div id="aboutus" style={{
             height: `${containerPaddings}px`
         }} class="relative px-5 2xl:px-0">
             <Image
